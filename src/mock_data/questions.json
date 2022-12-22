@@ -1,0 +1,32 @@
+[
+    {
+       "id":1,
+       "question_name":"The ______ company owners always dress appropriately when they need to attend business events and meetings.",
+       "created_at":"2022-12-22 10:08:03",
+       "updated_at":"2022-12-22 10:08:03"
+    },
+    {
+        "id":2,
+        "question_name":"The report concerning the sales figures that you requested ______ on your desk.",
+        "created_at":"2022-12-22 10:08:03",
+        "updated_at":"2022-12-22 10:08:03"
+     },
+     {
+        "id":3,
+        "question_name":"Before _____ us your resume, be sure to check that it meets our requirements precisely.",
+        "created_at":"2022-12-22 10:08:03",
+        "updated_at":"2022-12-22 10:08:03"
+     },
+     {
+        "id":4,
+        "question_name":"There were some discussions _____ the shareholders as to whether the CEO was competently operating the business.",
+        "created_at":"2022-12-22 10:08:03",
+        "updated_at":"2022-12-22 10:08:03"
+     }
+     ,{
+        "id":5,
+        "question_name":"During the factory tour, visitors must not ____ with any of the operations inside the plant.",
+        "created_at":"2022-12-22 10:08:03",
+        "updated_at":"2022-12-22 10:08:03"
+     }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id":1,
+    "questions_id":1,
+    "choices":"succe",
+    "correct":0
+  },
+  {
+    "id":2,
+    "questions_id":1,
+    "choices":"successful",
+    "correct":1
+  },
+  {
+    "id":3,
+    "questions_id":1,
+    "choices":"succession",
+    "correct":0
+  },
+  {
+    "id":4,
+    "questions_id":1,
+    "choices":"succeed",
+    "correct":0
+  }  
+]
